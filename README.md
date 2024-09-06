@@ -1,2 +1,2 @@
 # Restaurante
-### Aplicación básica para gestionar mesas, pedidos, facturas de un restaurante. 
+### Aplicación básica para gestionar mesas, pedidos y facturas de un restaurante. 
